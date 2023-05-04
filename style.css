@@ -1,0 +1,35 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:white ;
+    color:black ;
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    position: absolute;
+    top: 0.7rem;
+    left: 1rem;
+}
+
+
+
+nav li{
+    display: inline;
+    margin-left: 0.5rem;
+}
+
+main {
+    margin: 1rem;
+    width: 80%;
+}
+
+.home img {
+    float: inline-start;
+    margin-top: 3rem;
+    width: 600px;
+}
